@@ -1,5 +1,5 @@
 package com.example.windbird
-
+ 
 import android.graphics.Canvas
 import kotlin.math.*
 import kotlin.random.Random
